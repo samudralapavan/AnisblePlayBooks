@@ -5,5 +5,4 @@
      yum: name=git state=present
    - name: git clone
      git:
-      repo: 'https://github.com/devopstrainingbanglore/gradle-web-app.git'
-      dest: /home/ansible/gradle-web-app
+      repo: 'https://github.com/samudralapavan/myweb.git'
