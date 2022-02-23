@@ -8,4 +8,4 @@
        - vim
        - lsof
        - nano
-       - ansible
+       - curl
