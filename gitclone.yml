@@ -6,3 +6,4 @@
    - name: git clone
      git:
       repo: 'https://github.com/samudralapavan/myweb.git'
+      dest: /home
